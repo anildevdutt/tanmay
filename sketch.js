@@ -2,7 +2,7 @@ let particles = [];
 let myfont, musicfont;
 let myimg;
 let i = 1;
-let messages = ["Hi", "Poonam", "write your", "messages over", "here tanmay"];
+let messages = ["Hi", "Poonam", "sorry it's", "a bit late", "but anyways", "Happy Birthday"];
 let musicnotes = "abcdefghijk";
 function preload() {
   myfont = loadFont("BalooChettan-Regular.ttf");
